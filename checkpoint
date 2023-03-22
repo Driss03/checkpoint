@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="navbar">
+      <a href="" target="_blank"><button><b>home</b></button></a>
+        <section class="about">
+          <a href="" target="_blank"><button>about</button></a>
+        </section>
+        <section class="work">
+          <a href="" target="_blank"><button>work</button></a>
+        </section>
+        <section class="resume">
+          <a href="" target="_blank"><button>resume</button></a>
+        </section>
+        <section class="contact">
+          <a href="" target="_blank"><button>contact</button></a>
+        </section>
+    </div>
+    <div class="footer">
+        this is footer
+    </div>
+
+</body>
+</html>
